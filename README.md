@@ -16,3 +16,5 @@ using Microsoft.VisualBasic;
 Görüntü aktarımı için Android Bir Cep Telefonuna IP WebCam adlı uygulamayı yükledim. Bu uygulama IP üzerinden kamera görüntüsüne erişim sağlıyor.
 
 https://play.google.com/store/apps/details?id=com.pas.webcam
+
+IP WebCam üzerinden aktarılan görüntünün 320x240 çözünürlüğüne ayarlanması gerekmektedir.
